@@ -1,0 +1,7 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+ReportsPage;;;Отчеты;;;;Отчеты в главном меню;
+ReportsPageAct11;;;[1.1] Акт счет по потребителям;;;;[1.1] Акт счет по потребителям вкладка "Отчеты";
+ReportsPageAct11NotReq;;.display-4;;;;;Отчет не был запрошен на странице "Отчеты", вкладка "[1.1] Акт счет по потребителям";
+ImportExportPageGorSet11NotReq;;.display-4;;;;;Отчет не был запрошен на странице "Импорт/Экспорт", вкладка "[1.1] ГорСети";
+ImportExportPage;;;Импорт/Экспорт;;;; "Импорт/Экспорт" в главном меню;
+ImportExportPageGorSet11;;;[1.1] ГорСети;;;;[1.1] ГорСети вкладка "Импорт/Экспорт";

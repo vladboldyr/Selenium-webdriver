@@ -1,0 +1,3 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+DiagNSD;;;Диагностика НСД;;;;Имя вкладки "Диагностика НСД";
+DiagNSDDiagSystem;sunrise-diagnosticNSDPage-infoContent-title;;;//div[normalize-space() = 'Диагностика системы'];;;Надпись "Диагностика системы" на странице "Диагностика НСД";

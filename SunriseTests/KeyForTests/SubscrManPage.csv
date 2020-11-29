@@ -1,0 +1,3 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+SubscrMan;;;Управление абонентами;;;;Имя вкладки "Управление абонентами";
+SubscrManPlus;;#abonentsControl .bg-after-sign;;;;;Вращающийся плюс "Управление абонентами";

@@ -1,0 +1,17 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description
+ComponentsEditorTabProperties;;;Свойства;;;;"Свойства на вкладке ""Редактор компонентов"" Скада3"
+ComponentsEditorTabPrimitives;;;Примитивы;;;;"Примитивы на вкладке ""Редактор компонентов"" Скада3"
+ComponentsEditorTabComponents;;;Компоненты;;;;"Компоненты на вкладке ""Редактор компонентов"" Скада3"
+ComponentsEditorTabToolbar;;.justify-content-between;;;;;"Верхняя панель инструментов на вкладке ""Редактор компонентов"" Скада3"
+ComponentEditorTreeComponents;cdk-drop-list-0;.cdk-drop-list;;;;;Дерево компонентов
+NodeTreeComponents;;.mat-tree-node;;;;;Узел в дереве компонентов
+NodeTreeComponentsBtnOpenComponent;;.mat-focus-indicator;Открыть;Открыть;;;Кнопка открытия компонента
+ComponentEditorDivSpace;;.diagram-scheme-tabs-container;;;;;Вся область,где разворачивается открытый компонент
+ComponentEditorFirstOpenComponent;;.diagram-scheme-tabs-container li;;;;;Первый открытый компонент
+ComponenEditorBtnAddNewComponent;;.fa-plus-square;;;;;Кнопка плюс для добавления нового компонента в список
+ComponenEditorBtnRenameComponent;;.fa-pen-square;;;;;Кнопка ручка для редактирования имени компонента в списке
+ComponenEditorBtnDeleteComponent;;.fa-trash;;;;;Кнопка  корзина для удаления  компонента из списка
+ComponentEditorInputNameNewComponent;cmpName;;;;;;Поле ввода имени для нового компонента
+ComponentEditorBtnCreateInModalWindow;;.confirm-button;;;;;Кнопка создать в модальном окне
+ComponentEditroBtnExportFile;;.fa-file-export;;;;;Кнпока для экспорта компонента в файл
+ComponentEditroBtnImportFile;;.fa-file-import;;;;;Кнпока для импорта компонента в файл

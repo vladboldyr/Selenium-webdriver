@@ -1,0 +1,3 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+IntegrationPage;;;Интеграция;;;; Имя вкладки "Интеграция";
+IntegrationPagePicto;sunrise-integrationManagerPage-btnManualRequest;.fa-hand-paper;;;;; Пиктограмма "Ручной запрос" (ладонь);

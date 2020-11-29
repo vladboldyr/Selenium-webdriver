@@ -1,0 +1,10 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+LightCtrl;;;Управление освещением;;;;Имя вкладки "Управление освещением";
+LightCtrlBulb;;;.fa-lightbulb;;;;Лампочка на кнопке "Включить" на странице "Управление освещением";
+LightCtrlTurnOn;sunrise-lightCtrlPage-btnGroup-turnOn;.btn-success;;;;;Кнопка "Включить" на странице "Управление освещением";
+LightCtrlOff;;;;;;;Кнопка "Отключить" на странице "Управление освещением";
+LightCtrRequestUI;;;;;;;Кнопка "Запросить U,I" на странице "Управление освещением";
+LightCtrRequest;;;;;;;Кнопка "Запросить" на странице "Управление освещением";
+LightCtrSelectAll;;;;;;;Кнопка "Выделить все" на странице "Управление освещением";
+LightCtrClear;;;;;;;Кнопка "Очистить" на странице "Управление освещением";
+LightCtrExecute;;;;;;;Кнопка "Выполнить" на странице "Управление освещением";

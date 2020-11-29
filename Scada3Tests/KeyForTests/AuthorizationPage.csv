@@ -1,0 +1,5 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+FormForAuthorization;sunrise-authorizationPage-formAuthorization;.ng-untouched;;;;; Форма для авторизации в Заре;
+Login;sunrise-authorizationPage-formAuthorization-inputLogin;.ng-untouched:nth-child(1);;;;;Логин для авторизации;
+Password;sunrise-authorizationPage-formAuthorization-inputPassword;ng-untouched:nth-child(2);;;;;Пароль для авторизации;
+FormForAuthorizationButtonEntry;sunrise-authorizationPage-formAuthorization-btnEntry;button;;;;;Кнопка для отправки данных авторизацииы;

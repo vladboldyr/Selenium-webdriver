@@ -1,0 +1,18 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description
+MenuButtonMirBurgerScada3;;span.menu-item-icon;;;;;"Кнопка ""Главное меню"" на главной странице Скада3"
+MainPageTabScada3;;.fa-home;Главная;;;;"Вкладка ""Главная страница"" в Скада3"
+SchemeEditorTabScada3;;.fa-pencil;Редактор схем;;;;"Вкладка ""Редактор схем"" в Скада3"
+ComponentsEditorTabScada3;;.fa-edit;Редактор компонентов;;;;"Вкладка ""Редактор компонентов"" в Скада3"
+PowerSystemTabScada3;;.fa-atom;Энергосистема;;;;"Вкладка ""Энергосистема"" в Скада3"
+ScenariosTabScada3;;.fa-code-branch;Сценарии;;;;"Вкладка ""Сценарии"" в Скада3"
+ConnectionTabScada3;;.fa-broadcast-tower;Связь;;;;"Вкладка ""Связь"" в Скада3"
+MainPageTabScada3Hello;;;;//h1[contains(.,'Добро пожаловать!')];;;Добро пожаловать! на главной странице Скада3
+ToolbarBtnMenuTriggerExpamdWide;;.zoom-text;;;;;Кнопка отвечающая за масштаб в верхнем тулбаре;
+ToolbarMatMenuContent;;.mat-menu-content;;;;;Подложка выпадающего меню;
+ToolbarBtnMenuTriggerToIncrement;;.fa-search-plus;;;;;Кнпока увеличить масштаб;
+ToolbarBtnMenuTriggerToDecrement;;.fa-search-minus;;;;;Кнпока уменшить масштаб;
+ToolbarBtnMenuTriggerRestoreScale;;.fa-expand-wide;;;;;Кнопка восстановить масштаб;
+ToolbarZoomText;;.zoom-text;;;;;Значение текущего масштаба;
+ScadaLoginUser;;.input-group:nth-child(2) > .form-control;;;;;"Имя пользователя", логин в Скада 3;
+ScadaLoginPassword;;.input-group:nth-child(3) > .form-control;;;;;"Пароль", логин в Скада 3;
+ScadaLoginButtonEnter;;;;//button[contains(.,'Вход')];;;Кнопка "Вход" на странице логина в Скада 3;

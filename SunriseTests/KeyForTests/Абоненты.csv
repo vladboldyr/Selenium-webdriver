@@ -1,0 +1,13 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+AbonentsPage;;;Абоненты;;;;Имя вкладки "Абоненты";
+AbonentsPageChoose;sunrise-abonentPage-text;;;;;;Выберите объект из дерева адресов на странице "Абоненты";
+AbonentsPageMini;;;Абоненты мини;;;;Имя вкладки "Абоненты мини";
+AbonentsPageSTRegion;;;;//span[3]/span;;;Регион (Область) на странице "Абоненты" (css);
+AbonentsPageSTHouse;;.fa-home;;;;;Пиктограмма "Дом" (Регион) на странице "Абоненты";
+AbonentsPageSTInfo;;;;//h3[contains(.,'Информация по объекту')];;;Информация по объекту на странице "Абоненты" (клик на Регион);
+AbonentsPageSTEdit;;;;//h3[contains(.,'Редактирование:')];;;Редактирование:  на странице "Абоненты" (клик на Регион);
+AbonentsPageSTRegionX;;;;//div[normalize-space() = 'Регион (Область)'];;;Регион (Область) на странице "Абоненты" (xpath);
+AbonentsPageSTFreeSpace;;;;//mat-tree;;;Пустая область на странице "Абоненты" поле "Адреса";
+AbonentsPageSTCheckAbonents;;;;//button[contains(.,' Проверить по абонентской информации')];;;Проверить по абонентской информации на странице "Абоненты", поле "Связь" (правая кнопка мыши);
+AbonentsPageSTAddToAbonList;;;;//button[contains(.,' Добавить в абонентский список')];;;Добавить в абонентский список на странице "Абоненты", поле "Связь" (правая кнопка мыши);
+AbonentsPageSTExportAbonInfo;;;;//button[contains(.,' Экспорт абонентской информации')];;;Экспорт абонентской информации на странице "Абоненты", поле "Связь" (правая кнопка мыши);

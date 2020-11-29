@@ -1,0 +1,7 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+DateTimeRangeComp;sunrise-dateTimeRangeComp;.calendarIcon;;;;;Календарь на страницах;
+MirDialogComTextForConnection;sunrise-mirDialogCom-textForConnection;.input-group-text;;;;;Кнопка "Связь" возле поиска на странице "Абоненты мини";
+MirMatTreeNodeCom;;mat-tree-node;;;;;;
+TabContent;;.tab-content;;;;;Пустая область на странице без вкладок (белая);
+TabClose;sunrise-mainTabsCoreClose;div.fas.fa-times;;;;;Элемент для закрытия вкладки в заре;
+MenuButtonMirBurger;sunrise-homePage-mirBurger;.mir_burger;;;;;Кнопка меню в Заре;

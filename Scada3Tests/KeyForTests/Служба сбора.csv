@@ -1,0 +1,3 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+CollectionServicePage;;;Служба сбора;;;;Имя вкладки "Служба сбора";
+CollectionServicePageStatus;sunrise-collectionServicePage-status;.status;;;;;Статус службы сбора на странице "Служба сбора";

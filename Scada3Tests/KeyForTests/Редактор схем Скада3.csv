@@ -1,0 +1,20 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+SchemeEditorTabSchemes;;;Схемы;;;;"Схемы" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabElements;;;Объекты;;;;"Объекты" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabWorkSpace;;;;//div[@id='ngb-nav-295-panel']/div/ge-scada-diagram/mir-diagram/gojs-diagram/div/canvas;;;Рабочая область на вкладке "Редактор схем" Скада3;
+SchemeEditorTabToolbar;;.btn-toolbar;;;;;Верхняя панель инструментов на вкладке "Редактор схем" Скада3;
+SchemeEditorTabProperties;;;Свойства;;;;"Свойства" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabLibrary;;;Библиотека;;;;"Библиотека" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabLayers;;;Слои;;;;"Слои" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabHistory;;;История;;;;"История" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabGraphics;;;;//button[contains(.,'Графика')];;;"Графика" на рабочей области, вкладка "Редактор схем" Скада3;
+SchemeEditorTabModel;;;;//button[contains(.,'Модель')];;;"Модель" на рабочей области, вкладка "Редактор схем" Скада3;
+SchemeEditorTabTelemechanics;;;;//button[contains(.,'Телемеханика')];;;"Телемеханика" на рабочей области, вкладка "Редактор схем" Скада3;
+SchemeEditorTabSimulator;;;;//button[contains(.,'Симулятор')];;;"Симулятор" на рабочей области, вкладка "Редактор схем" Скада3;
+SchemeEditorTabTestFolder;;;;//span[contains(.,'test')];;;Тестовая папка на вкладке "Редактор схем" Скада3;
+SchemeEditorTabTestScheme;;;;//span[contains(.,'autotest')];;;Тестовая схема "autotest" на вкладке "Редактор схем" Скада3;
+SchemeEditorTabSchemesArrow;;.fa-chevron-right;;;;;Стрелка для раскрытия папки со схемами Скада3;
+SchemeEditorTabElemTree;;;;//small[contains(.,'Дерево элементов')];;;Дерево элементов в "Элементы", вкладка "Редактор схем" Скада3;
+SchemeEditorTabCanvasProperties;;;;//small[contains(.,'Свойства полотна')];;;"Свойства полотна" в свойствах, вкладка "Редактор схем" Скада3;
+SchemeEditorTabOpenScheme;;;;//button[contains(.,' Открыть схему')];;;"Открыть схему", правая кнопка мыши, "Схемы", вкладка "Редактор схем" Скада3
+SchemeEditorTabFirstFolder;;.fa-folder;;;;;Первая папка в списке, вкладка "Редактор схем"

@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SunriseTests", "SunriseTests\SunriseTests.csproj", "{2582C6F2-490F-476E-8B8D-857E84F134F9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0300FE03-56CE-4EC6-8092-61F5368120D5} = {0300FE03-56CE-4EC6-8092-61F5368120D5}
+		{DEC3D20D-477E-48FA-822C-B5DC1515E314} = {DEC3D20D-477E-48FA-822C-B5DC1515E314}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mir.AutoTests.TestEngine", "Mir.AutoTests.TestEngine\Mir.AutoTests.TestEngine.csproj", "{6A970AD1-DB45-4846-8B20-0A7A765471DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{8E236738-FAC9-407D-8CF5-B85347E71C3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mir.AutoTests.Utils.ConstsGenerator", "Utils\Mir.AutoTests.Utils.ConstsGenerator\Mir.AutoTests.Utils.ConstsGenerator.csproj", "{0300FE03-56CE-4EC6-8092-61F5368120D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scada3Tests", "Scada3Tests\Scada3Tests.csproj", "{DEC3D20D-477E-48FA-822C-B5DC1515E314}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Automation", "Automation", "{5C6799E0-2C64-40B7-ABA5-1ABD16C257D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{342D7AAB-DDA7-41A1-AA7A-FA3818A6BD70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deploy", "Deploy", "{7EC27A0A-3182-4D39-960C-6C01CCE16A5C}"
+	ProjectSection(SolutionItems) = preProject
+		Automation\Scripts\IsueDeploy.ps1 = Automation\Scripts\IsueDeploy.ps1
+		Automation\Scripts\SunriseToLab15Deploy.SetParameters.xml = Automation\Scripts\SunriseToLab15Deploy.SetParameters.xml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerHelper", "LoggerHelper\LoggerHelper.csproj", "{B0183A5B-1F3B-41A2-A177-7045F4C7BAA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mir.Utils.GeneratorCSVFile", "Mir.Utils.GeneratorCSVFile\Mir.Utils.GeneratorCSVFile.csproj", "{042062B6-B3C3-470F-9CF2-3BFEA04B521E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2582C6F2-490F-476E-8B8D-857E84F134F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2582C6F2-490F-476E-8B8D-857E84F134F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2582C6F2-490F-476E-8B8D-857E84F134F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2582C6F2-490F-476E-8B8D-857E84F134F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A970AD1-DB45-4846-8B20-0A7A765471DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A970AD1-DB45-4846-8B20-0A7A765471DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A970AD1-DB45-4846-8B20-0A7A765471DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A970AD1-DB45-4846-8B20-0A7A765471DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0300FE03-56CE-4EC6-8092-61F5368120D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0300FE03-56CE-4EC6-8092-61F5368120D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0300FE03-56CE-4EC6-8092-61F5368120D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0300FE03-56CE-4EC6-8092-61F5368120D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC3D20D-477E-48FA-822C-B5DC1515E314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC3D20D-477E-48FA-822C-B5DC1515E314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC3D20D-477E-48FA-822C-B5DC1515E314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC3D20D-477E-48FA-822C-B5DC1515E314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0183A5B-1F3B-41A2-A177-7045F4C7BAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0183A5B-1F3B-41A2-A177-7045F4C7BAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0183A5B-1F3B-41A2-A177-7045F4C7BAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0183A5B-1F3B-41A2-A177-7045F4C7BAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042062B6-B3C3-470F-9CF2-3BFEA04B521E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042062B6-B3C3-470F-9CF2-3BFEA04B521E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042062B6-B3C3-470F-9CF2-3BFEA04B521E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042062B6-B3C3-470F-9CF2-3BFEA04B521E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0300FE03-56CE-4EC6-8092-61F5368120D5} = {8E236738-FAC9-407D-8CF5-B85347E71C3F}
+		{342D7AAB-DDA7-41A1-AA7A-FA3818A6BD70} = {5C6799E0-2C64-40B7-ABA5-1ABD16C257D9}
+		{7EC27A0A-3182-4D39-960C-6C01CCE16A5C} = {342D7AAB-DDA7-41A1-AA7A-FA3818A6BD70}
+		{042062B6-B3C3-470F-9CF2-3BFEA04B521E} = {8E236738-FAC9-407D-8CF5-B85347E71C3F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA893A8-1FD8-4AE2-B74E-46A388FA3C1E}
+	EndGlobalSection
+EndGlobal

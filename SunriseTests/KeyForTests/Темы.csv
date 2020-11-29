@@ -1,0 +1,5 @@
+﻿NameVariable;Id;CssSelector;LinkText;XPath;TagName;ClassName;Description;
+ThemesPage;;;Темы;;;;Темы в главном меню;
+ThemesPageVesteros;;;Вестерос;;;;Вестерос вкладка "Темы";
+DiagnosticThemesPage;;;Темы;;;; "Обслуживание", "Темы" в главном меню;
+DiagnosticThemesPageVesteros;;;Вестерос;;;;Обслуживание, "Вестерос" вкладка "Темы";
